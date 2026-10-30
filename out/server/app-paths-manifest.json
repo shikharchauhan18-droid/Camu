@@ -1,0 +1,7 @@
+{
+  "/course-registration/page": "app/course-registration/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/final-result/page": "app/final-result/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js"
+}
